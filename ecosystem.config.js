@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'HolyUB',
+      name: 'Jakoby'z',
       script: './backend.js',
       env: {
         PORT: 8080,
